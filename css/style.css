@@ -1,0 +1,20 @@
+body{
+    background-color: #f6dcbf;
+}
+table
+{
+    border-radius: 1px;
+}
+.education td
+{
+    border: 1px solid #333;
+    border-collapse: collapse;
+}
+hr{
+    border-style: dotted none none;
+    width: 5%;
+    
+    border-color: grey;
+    border-width: 5px;
+
+}
